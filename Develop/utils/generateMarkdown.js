@@ -5,6 +5,12 @@ function generateMarkdown(data, githubInfo) {
 
 ${data.badge}
 
+##Walkthrough Video
+
+Walkthrough Video
+
+https://drive.google.com/file/d/148cngohaAM3_DDNMrADCIPZ7oTgkGCs2/view
+
 ## Description 
 
 ${data.description}
